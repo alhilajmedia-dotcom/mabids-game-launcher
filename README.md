@@ -3,8 +3,9 @@ An extremely light-weight game launcher made in Java that can run almost any gam
 <img width="819" height="618" alt="image" src="https://github.com/user-attachments/assets/1e90dc21-70e7-4201-871f-b6437b3da88b" />
 
 # Minimum Specs
-OS: Windows XP
-Java Version: 8
+* OS: Any OS that supports Java 8;
+* Architecture: 32-bit;
+* Java Version: 8.
 
 # How to Use it
 * Go to File -> New on the menu bar, or right-click on the left-most "panel" and click New.
